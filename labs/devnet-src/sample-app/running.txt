@@ -1,0 +1,14 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS                      PORTS     NAMES
+6fae3870206c   f05f92e5a02c   "/bin/sh -c 'python3…"   12 minutes ago   Exited (2) 12 minutes ago             samplerunning
+c167d1dc6fa0   ubuntu         "/bin/bash"              7 days ago       Exited (255) 3 hours ago              strange_keller
+49e1e27f19bc   nginx          "/docker-entrypoint.…"   7 days ago       Exited (137) 7 days ago               goofy_swirles
+804b85b98d5a   nginx          "/docker-entrypoint.…"   7 days ago       Exited (137) 7 days ago               zen_blackwell
+20e023fb2fa4   hello-world    "/hello"                 7 days ago       Exited (0) 7 days ago                 fervent_grothendieck
+d601842dc50b   hello-world    "/hello"                 7 days ago       Exited (0) 7 days ago                 fervent_gould
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS                      PORTS     NAMES
+6fae3870206c   f05f92e5a02c   "/bin/sh -c 'python3…"   13 minutes ago   Exited (2) 13 minutes ago             samplerunning
+c167d1dc6fa0   ubuntu         "/bin/bash"              7 days ago       Exited (255) 3 hours ago              strange_keller
+49e1e27f19bc   nginx          "/docker-entrypoint.…"   7 days ago       Exited (137) 7 days ago               goofy_swirles
+804b85b98d5a   nginx          "/docker-entrypoint.…"   7 days ago       Exited (137) 7 days ago               zen_blackwell
+20e023fb2fa4   hello-world    "/hello"                 7 days ago       Exited (0) 7 days ago                 fervent_grothendieck
+d601842dc50b   hello-world    "/hello"                 7 days ago       Exited (0) 7 days ago                 fervent_gould
